@@ -8,3 +8,6 @@ Notebook for inference
 
 
 # LICENSE:
+
+- The model is licensed under Creative Commons Attribution Non Commercial 4.0
+- The code for inference is under Apache 2.0

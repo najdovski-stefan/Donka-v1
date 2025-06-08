@@ -2,7 +2,7 @@
 Notebook for inference 
 
 
-[![Run on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/najdovski-stefan/Donka-v1/blob/main/Donka_v1_Inference_seq2seq_mk_en-GOOGLE-COLAB.ipynb)
+[![Run on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/najdovski-stefan/Donka-v1/blob/main/Donka_v1_Inference_seq2seq_mk_en-GOOGLE-COLAB.ipynb)
 
 
 # Model

@@ -5,6 +5,9 @@ You can run the model directly on Google Colab, click the button bellow:
 [![Run on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/najdovski-stefan/Donka-v1/blob/main/Donka_v1_Inference_seq2seq_mk_en-GOOGLE-COLAB.ipynb)
 
 
+The name of the model is derivied from the Macedonian female name <b>Маке-донка</b> (Make-DONKA), to associate the ability of the models task to translate macedonian text.
+
+
 ## Model
 
 - The model can be downloaded from [Huggingface](https://huggingface.co/stefan-n/Donka-v1)

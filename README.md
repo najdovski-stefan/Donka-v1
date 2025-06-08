@@ -1,6 +1,4 @@
-# Donka-v1
-Notebook for inference 
-
+# Donka-v1 
 
 [![Run on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/najdovski-stefan/Donka-v1/blob/main/Donka_v1_Inference_seq2seq_mk_en-GOOGLE-COLAB.ipynb)
 
